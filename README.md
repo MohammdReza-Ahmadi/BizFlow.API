@@ -2,6 +2,9 @@
 
 A clean, modular Web API project built using **.NET 8**, applying **Clean Architecture + Vertical Slice Architecture** principles to manage **customers**, **orders**, **invoices**, and **wallet-based payments** in a secure and scalable way.
 
+"## 📦 BizFlow.API",
+    "## 📦 BizFlow.API\n\n> 🧪 **Note:** This is a sample/test project designed for evaluation purposes. Some implementations, shortcuts, or simplifications (such as hardcoded users or lack of tests) are intentional to meet time constraints or to keep the scope focused during review."
+
 ## ✅ Features
 
 - 🔐 JWT-based authentication (Admin / Customer roles)
@@ -122,10 +125,10 @@ dotnet run
 
 ## 👨‍💻 Developer Info
 
-- **Name:** [Your Full Name]
-- **GitHub:** [YourGitHubProfile]
-- **Email:** [your@email.com]
-- **LinkedIn:** [linkedin.com/in/yourprofile]
+- **Name:** Mohammd Reza Ahmadi
+- **GitHub:** (https://github.com/MohammdReza-Ahmadi)
+- **Email:** mohammadre3aahmadi@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/mohammadre3a-ahmadi/)
 
 ## 🧠 Design Notes
 
