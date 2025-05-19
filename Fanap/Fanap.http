@@ -1,0 +1,6 @@
+@Fanap_HostAddress = http://localhost:5077
+
+GET {{Fanap_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
